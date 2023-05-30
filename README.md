@@ -8,6 +8,7 @@ Our Team:
 Carl Russel Orlina: carl.orlina@neu.edu.ph
 Johnle Patalagsa: johnle.patalagsa@neu.edu.ph
 Prince Joshfer Canales: prince.canales@neu.edu.ph
+
 As second-year college students, we embarked on this project with a shared goal: to provide an accessible and engaging platform for individuals who wish to enhance their English language skills. Despite the limited time frame, we poured our efforts into developing this app to help learners of all levels improve their English proficiency.
 
 Although our app may not be as polished as some others you may come across, we believe that the value lies in its simplicity and ease of use. We understand that learning a new language can be challenging, which is why we focused on creating a user-friendly interface that caters to various learning styles.
