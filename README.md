@@ -5,8 +5,10 @@ Welcome to our English Learning App, developed by Team 7 from 2-BSIT-1 at New Er
 
 Our Team:
 
-Carl Russel Orlina: carl.orlina@neu.edu.ph
+Carl Russel Orlina: ocarlrussel@gmail.com
+
 Johnle Patalagsa: johnle.patalagsa@neu.edu.ph
+
 Prince Joshfer Canales: prince.canales@neu.edu.ph
 
 As second-year college students, we embarked on this project with a shared goal: to provide an accessible and engaging platform for individuals who wish to enhance their English language skills. Despite the limited time frame, we poured our efforts into developing this app to help learners of all levels improve their English proficiency.
