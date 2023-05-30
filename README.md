@@ -24,21 +24,27 @@ Thank you for choosing our app as your language learning companion. Start explor
 English Learning Application Screenshot:
 
 Main:
+
 ![mainApp](https://github.com/Rari21/english-learning-app/assets/134243225/64d26482-4f18-4fd2-ad43-3e6c8b55f7b4)
 
 Main2:
+
 ![screen2](https://github.com/Rari21/english-learning-app/assets/134243225/96394440-b0cd-42f5-b406-e1c60116cfb9)
 
 PronunciationGuideScreen:
+
 ![PronunciationGuideScreen](https://github.com/Rari21/english-learning-app/assets/134243225/405b5865-a3ee-474c-99de-57083c18ca1f)
 
 AllLessonScreenSample:
+
 ![AllLessonScreenSample](https://github.com/Rari21/english-learning-app/assets/134243225/c39c2350-3599-41ed-b5f8-c1b55b5baaa9)
 
 PracticeToWordScreen:
+
 ![PracticeToWordScreen](https://github.com/Rari21/english-learning-app/assets/134243225/c4e0b25d-4471-4d9f-a0f0-a6d010d248e4)
 
 AboutUsScreen:
+
 ![AboutUsScreen](https://github.com/Rari21/english-learning-app/assets/134243225/147adad8-d4bc-4793-a3d8-1766d299e8f1)
 
 
